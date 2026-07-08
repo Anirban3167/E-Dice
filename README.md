@@ -46,8 +46,7 @@ pip install tkinter
 ```
 ### Running the GUI
 Run the Python application:
-```
-bash
+```bash
 python e_dice_gui.py
 ```
 
